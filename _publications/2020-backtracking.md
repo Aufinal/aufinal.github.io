@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2020-backtracking
 excerpt: 
 date: 2020-04-01
-venue: "Submitted to Mathematical Statistics and Learning"
+pubstatus: "Submitted to Mathematical Statistics and Learning"
 paperurl: 'https://arxiv.org/abs/2004.07408'
 authors: "L.Stephan, L. Massoulié"
 ---

@@ -12,7 +12,8 @@
         <h3 class="archive__item-title" itemprop="headline">
             <a href="{{ post.paperurl }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
         </h3>
-        <p>{{ post.authors }}</p>
+        <span><i>{{ post.authors }}</i></span>
+        <span>{{ post.pubstatus }}</span>
 
     </article>
 </div>
