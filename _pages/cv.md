@@ -14,6 +14,7 @@ Education
 * 2018 -- now: PhD Student at [Inria](https://www.inria.fr/fr) and [École Normale Supérieure](https://www.di.ens.fr/)
 * 2017 -- 2018: Master's Degree in Statistics and Machine Learning at [Université Paris-Saclay](https://master-statml.imo.universite-paris-saclay.fr/)
 * 2014 -- 2018: Student at [École Normale Supérieure](https://www.ens.psl.eu/)
+
 <!-- 
 Work experience
 ======
