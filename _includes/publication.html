@@ -14,7 +14,7 @@
         </h3>
         <div><i>{{ post.authors }}</i></div>
         <div>{{ post.pubstatus }}</div>
-        <div>{{post.content}}</div>
+        <div>{{post.conten t| markdownify | remove: "<p>" | remove: "</p>"}}</div>
     </article>
 </div>
   
