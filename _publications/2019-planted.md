@@ -6,6 +6,7 @@ excerpt:
 date: 2018-11-05
 venue: "COLT 2019"
 paperurl: 'https://arxiv.org/abs/1811.01800'
+coauthors: "L. Massoulié, D. Towsley"
 citation:
 ---
 
