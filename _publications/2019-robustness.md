@@ -8,5 +8,4 @@ pubstatus: "COLT 2019 – Conference on Learning Theory, Jun 2019, Phoenix, Unit
 paperurl: 'https://arxiv.org/abs/1811.05808'
 authors: "L. Stephan, L. Massoulié"
 ---
-
-[[Poster]](/files/Poster_CD.pdf) and [[Slides]](/files/Slides_CD.pdf) from the COLT presentation
+[[Poster]](/files/Poster_CD.pdf)[[Slides]](/files/Slides_CD.pdf)
