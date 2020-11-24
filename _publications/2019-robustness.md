@@ -1,8 +1,6 @@
 ---
 title: "Robustness of Spectral Methods for Community Detection"
 collection: publications
-permalink: /publication/2019-robustness
-excerpt: 
 date: 2018-07-15
 pubstatus: "COLT 2019 – Conference on Learning Theory, Jun 2019, Phoenix, United States"
 paperurl: 'https://arxiv.org/abs/1811.05808'
