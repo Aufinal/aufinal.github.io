@@ -84,8 +84,8 @@ author:
   avatar           : "profile.jpg"
   bio              : "PhD student in applied mathematics at Inria Paris and École Normale Supérieure."
   location         : "Paris, France"
-  employer         : ""
-  pubmed           : ""
+  employer         : 
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=mEd3WCsAAAAJ"
   email            : "ludovic.stephan@ens.fr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : ""
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : ""
+  twitter          : 
   vine             :
   weibo            :
   xing             :
