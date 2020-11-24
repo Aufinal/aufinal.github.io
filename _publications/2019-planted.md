@@ -3,7 +3,7 @@ title: "Planting trees in graphs, and finding them back"
 collection: publications
 permalink: /publication/2019-planted
 excerpt: 
-date: 2018-11
+date: 2018-11-05
 venue: "COLT 2019"
 paperurl: 'https://arxiv.org/abs/1811.01800'
 citation:
