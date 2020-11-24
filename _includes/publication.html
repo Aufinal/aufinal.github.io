@@ -9,13 +9,10 @@
 
 <div class="{{ include.type | default: "list" }}__item">
     <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-        <h2 class="archive__item-title" itemprop="headline">
+        <h3 class="archive__item-title" itemprop="headline">
             <a href="{{ post.paperurl }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
-        </h2>
-
-        {% if coauthors %}
-            with {{ coauthors }}.
-        {% endif %}
+        </h3>
+        <p>{{ post.authors }}</p>
 
     </article>
 </div>
