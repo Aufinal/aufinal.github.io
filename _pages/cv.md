@@ -2,8 +2,8 @@
 layout: cv
 permalink: /cv/
 title: cv
-nav: false
+nav: yes
 nav_order: 4
-cv_pdf: example_pdf.pdf
-published: false
+cv_pdf: academic_cv.pdf
+published: yes
 ---

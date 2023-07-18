@@ -1,34 +1,28 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Arnaboldi":
+  - firstname: ["Luca"]
+    url: https://uz.sns.it/~arna/en/
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Zhu":
+  - firstname: ["Yizhe"]
+    url: https://sites.google.com/uci.edu/yizhezhu
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Loureiro":
+  - firstname: ["Bruno"]
+    url: https://brloureiro.github.io/
 
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Krzakala":
+  - firstname: ["Florent"]
+    url: https://florentkrzakala.com/
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Dandi":
+  - firstname: ["Yatin"]
+    url: https://yatindandi.github.io/
 
-"Przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"Massoulié":
+  - firstname: ["Laurent"]
+    url: https://www.di.ens.fr/laurent.massoulie/
 
-"Schrödinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"Coste":
+  - firstname: ["Simon"]
+    url: https://scoste.fr/
 
-"Lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
-
-"Planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck

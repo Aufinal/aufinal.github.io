@@ -49,7 +49,7 @@ navbar_fixed: true
 footer_fixed: false
 
 # Dimensions
-max_width: 800px
+max_width: 1000px
 
 # TODO: add layout settings (single page vs. multi-page)
 
@@ -74,7 +74,7 @@ telegram_username: # your Telegram user name
 scholar_userid: mEd3WCsAAAAJ # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-orcid_id: 0000-0001-5612-3577# your ORCID ID
+orcid_id: 0000-0001-5612-3577 # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
