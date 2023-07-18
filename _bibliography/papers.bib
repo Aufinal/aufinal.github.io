@@ -1,10 +1,26 @@
-'
-@techreport{Arnaboldi2023,
-  author = {Arnaboldi, Luca and Stephan, Ludovic and Krzakala, Florent and Loureiro, Bruno},
-  title  = {From high-dimensional \& mean-field dynamics to dimensionless {ODEs}: {A} unifying approach to {SGD} in two-layers networks},
+@misc{arnaboldi2023escaping,
+  title  = {Escaping mediocrity: how two-layer networks learn hard single-index models with SGD},
+  author = {Luca Arnaboldi and Florent Krzakala and Bruno Loureiro and Ludovic Stephan},
   year   = {2023},
-  month  = feb,
-  arxiv  = {2302.05882}
+  month  = may,
+  arxiv  = {2305.18502}
+}
+
+@misc{dandi2023learning,
+  title  = {Learning Two-Layer Neural Networks, One (Giant) Step at a Time},
+  author = {Yatin Dandi and Florent Krzakala and Bruno Loureiro and Luca Pesce and Ludovic Stephan},
+  year   = {2023},
+  month  = may,
+  arxiv  = {2305.18270}
+}
+
+@misc{stephan2023nonbacktracking,
+  title  = {A non-backtracking method for long matrix and tensor completion},
+  author = {Ludovic Stephan and Yizhe Zhu},
+  year   = {2023},
+  month  = apr,
+  arxiv  = {2304.02077},
+  slides = {slides_tensor_completion.pdf}
 }
 
 @misc{https://doi.org/10.48550/arxiv.2302.08923,
@@ -12,9 +28,20 @@
   title  = {Are Gaussian data all you need? Extents and limits of universality in high-dimensional generalized linear estimation},
   year   = {2023},
   month  = feb,
-  arxiv  = {2302.08923}
+  arxiv  = {2302.08923},
+  abbr   = {Conference}
 }
 
+
+'
+@techreport{Arnaboldi2023,
+  author = {Arnaboldi, Luca and Stephan, Ludovic and Krzakala, Florent and Loureiro, Bruno},
+  title  = {From high-dimensional \& mean-field dynamics to dimensionless {ODEs}: {A} unifying approach to {SGD} in two-layers networks},
+  year   = {2023},
+  month  = feb,
+  arxiv  = {2302.05882},
+  abbr   = {Conference}
+}
 
 @misc{https://doi.org/10.48550/arxiv.2302.08933,
   author = {Dandi, Yatin and Stephan, Ludovic and Krzakala, Florent and Loureiro, Bruno and Zdeborová, Lenka},
@@ -23,6 +50,21 @@
   month  = feb,
   arxiv  = {2302.08933}
 }
+
+@inproceedings{Stephan2022,
+  author    = {Stephan, Ludovic and Zhu, Yizhe},
+  booktitle = {2022 {IEEE} 63rd {Annual} {Symposium} on {Foundations} of {Computer} {Science} ({FOCS})},
+  title     = {Sparse random hypergraphs: {Non}-backtracking spectra and community detection},
+  year      = {2022},
+  month     = oct,
+  pages     = {567--575},
+  doi       = {10.1109/FOCS54457.2022.00060},
+  issn      = {2575-8454},
+  arxiv     = {2203.07346},
+  abbr      = {Conference},
+  slides    = {slides_hsbm.pdf}
+}
+
 
 
 @article{coste.stephan_2021_simpler,
@@ -33,30 +75,7 @@
   arxiv  = {2102.03188}
 }
 
-'
-@techreport{gerace.krzakala.ea_2022_gaussian,
-  author = {Gerace, Federica and Krzakala, Florent and Loureiro, Bruno and Stephan, Ludovic and Zdeborová, Lenka},
-  title  = {Gaussian {Universality} of {Linear} {Classifiers} with {Random} {Labels} in {High}-{Dimension}},
-  year   = {2022},
-  month  = may,
-  doi    = {10.48550/arXiv.2205.13303},
-  arxiv  = {2205.13303}
-}
 
-@inproceedings{massoulie.stephan.ea_2019_planting,
-  author    = {Massoulié, Laurent and Stephan, Ludovic and Towsley, Don},
-  booktitle = {Conference on {Learning} {Theory}},
-  title     = {Planting trees in graphs, and finding them back},
-  year      = {2019},
-  month     = jun,
-  pages     = {2341--2371},
-  publisher = {PMLR},
-  issn      = {2640-3498},
-  language  = {en},
-  url       = {http://proceedings.mlr.press/v99/massoulie19a.html},
-  abbr      = {COLT},
-  arxiv     = {1811.01800}
-}
 
 @article{stephan.massoulie_2022_non,
   author   = {Stephan, Ludovic and Massoulié, Laurent},
@@ -71,7 +90,50 @@
   doi      = {10.4171/msl/34},
   language = {en},
   url      = {https://ems.press/journals/msl/articles/8723068},
+  abbr     = {Journal},
   arxiv    = {2004.07408}
+}
+
+
+
+'
+@misc{gerace.krzakala.ea_2022_gaussian,
+  author = {Gerace, Federica and Krzakala, Florent and Loureiro, Bruno and Stephan, Ludovic and Zdeborová, Lenka},
+  title  = {Gaussian {Universality} of {Linear} {Classifiers} with {Random} {Labels} in {High}-{Dimension}},
+  year   = {2022},
+  month  = may,
+  arxiv  = {2205.13303}
+}
+
+'
+@inproceedings{NEURIPS2022_939bb847,
+  author    = {Veiga, Rodrigo and Stephan, Ludovic and Loureiro, Bruno and Krzakala, Florent and Zdeborov\'{a}, Lenka},
+  booktitle = {Advances in Neural Information Processing Systems},
+  editor    = {S. Koyejo and S. Mohamed and A. Agarwal and D. Belgrave and K. Cho and A. Oh},
+  pages     = {23244--23255},
+  publisher = {Curran Associates, Inc.},
+  title     = {Phase diagram of Stochastic Gradient Descent in high-dimensional two-layer neural networks},
+  pdf       = {https://proceedings.neurips.cc/paper_files/paper/2022/file/939bb847ebfd14c6e4d3b5705e562054-Paper-Conference.pdf},
+  volume    = {35},
+  year      = {2022},
+  abbr      = {Conference},
+  poster    = {poster_sgd.pdf}
+}
+
+
+@inproceedings{massoulie.stephan.ea_2019_planting,
+  author    = {Massoulié, Laurent and Stephan, Ludovic and Towsley, Don},
+  booktitle = {Conference on {Learning} {Theory}},
+  title     = {Planting trees in graphs, and finding them back},
+  year      = {2019},
+  month     = jun,
+  pages     = {2341--2371},
+  publisher = {PMLR},
+  issn      = {2640-3498},
+  language  = {en},
+  url       = {http://proceedings.mlr.press/v99/massoulie19a.html},
+  abbr      = {Conference},
+  arxiv     = {1811.01800}
 }
 
 @inproceedings{stephan.massoulie_2019_robustness,
@@ -87,30 +149,7 @@
   issn      = {2640-3498},
   language  = {en},
   url       = {http://proceedings.mlr.press/v99/stephan19a.html},
-  abbr      = {COLT},
+  abbr      = {Conference},
   arxiv     = {1811.05808}
-}
-
-'
-@inproceedings{Stephan2022,
-  author    = {Stephan, Ludovic and Zhu, Yizhe},
-  booktitle = {2022 {IEEE} 63rd {Annual} {Symposium} on {Foundations} of {Computer} {Science} ({FOCS})},
-  title     = {Sparse random hypergraphs: {Non}-backtracking spectra and community detection},
-  year      = {2022},
-  month     = oct,
-  pages     = {567--575},
-  doi       = {10.1109/FOCS54457.2022.00060},
-  issn      = {2575-8454},
-  arxiv     = {2203.07346}
-}
-
-@misc{https://doi.org/10.48550/arxiv.2202.00293,
-  doi       = {10.48550/ARXIV.2202.00293},
-  arxiv     = {2202.00293},
-  author    = {Veiga, Rodrigo and Stephan, Ludovic and Loureiro, Bruno and Krzakala, Florent and Zdeborová, Lenka},
-  title     = {Phase diagram of Stochastic Gradient Descent in high-dimensional two-layer neural networks},
-  publisher = {arXiv},
-  year      = {2022},
-  abbr      = {NeurIPS}
 }
 
