@@ -26,21 +26,30 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Assistant Professor
+      institution: ENSAI, Rennes, France
+      year: 2024 -
+
     - title: Post-doctoral fellow
       institution: École Polytechnique Fédérale de Lausanne, Lausanne, Switzerland
-      year: 2021 - 
+      year: 2021 - 2024
       description:
         - 'Supervisor: Florent Krzakala' 
         
 - title: Teaching
   type: time_table
   contents:
+    - title: Teacher, Elements of Statistics for Data Science
+      institution: École Polytechnique Fédérale de Lausanne, Lausanne, Switzerland
+      year: 2024
+
     - title: Teaching Assistant, Network Models and Algorithms
       institution: École Normale Supérieure, Paris, France
       year: 2018-2021
       description:
         - Graduate-level course, 32h/yr
-        - 'Referent professor: Ana Busic' 
+        - 'Referent professor: Ana Busic'
+        
     - title: Volunteer Teacher, Talens
       institution: École Normale Supérieure, Paris, France
       year: 2014-2020
