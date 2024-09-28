@@ -8,6 +8,19 @@
     - name: Languages
       value: English, French
 
+- title: Experience
+  type: time_table
+  contents:
+    - title: Assistant Professor
+      institution: ENSAI, Rennes, France
+      year: 2024 -
+
+    - title: Post-doctoral fellow
+      institution: École Polytechnique Fédérale de Lausanne, Lausanne, Switzerland
+      year: 2021 - 2024
+      description:
+        - 'Supervisor: Florent Krzakala' 
+
 - title: Education
   type: time_table
   contents:
@@ -22,20 +35,7 @@
       year: 2018
       description:
         - Specialized in Statistics and Machine Learning
-
-- title: Experience
-  type: time_table
-  contents:
-    - title: Assistant Professor
-      institution: ENSAI, Rennes, France
-      year: 2024 -
-
-    - title: Post-doctoral fellow
-      institution: École Polytechnique Fédérale de Lausanne, Lausanne, Switzerland
-      year: 2021 - 2024
-      description:
-        - 'Supervisor: Florent Krzakala' 
-        
+ 
 - title: Teaching
   type: time_table
   contents:
@@ -49,7 +49,7 @@
       description:
         - Graduate-level course, 32h/yr
         - 'Referent professor: Ana Busic'
-        
+
     - title: Volunteer Teacher, Talens
       institution: École Normale Supérieure, Paris, France
       year: 2014-2020
