@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Ludovic
 middle_name: 
 last_name: Stephan
-email: ludovic.stephan@epfl.ch
+email: ludovic.stephan@ensai.fr
 description:
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
